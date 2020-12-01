@@ -83,22 +83,9 @@ public class dataStruct1 {
 		  		 + "Our " + cars.get(i) + " selection is right over here...\n");
 		  break;		
 	   } 
+	  }
+	 }
 	}
 	
 	
 	
-	}
-	
-	
-	}
-	
-	
-	
-	/* else {
-	  		  System.out.println("\nWe do not have your selection in our inventory.");
-	  		  break;
-	  	  }     */
-
-	  		
-	
-  
